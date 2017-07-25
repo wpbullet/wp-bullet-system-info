@@ -1,0 +1,26 @@
+{
+    "name": "wp-bullet/system-info",
+        "description": "Displays, WordPress, PHP, MySQL and other diagnostic data",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2",
+        "mockery/mockery": "^0.9.9"
+    },
+    "authors": [
+        {
+            "name": "Justin Frydman",
+            "email": "justin.frydman@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Mike Andreasen",
+            "role": "Master"
+        },
+        {
+            "name": "WP Bullet",
+            "homepage": "https://wp-bullet.com/"
+        }
+    ],
+    "require": {}
+}
